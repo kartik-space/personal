@@ -175,7 +175,7 @@ img {
 
 /*----------MY CHANGES-----------*/
 
-@media (max-width:769px) and (min-width:768px) {
+/* @media (max-width:769px) and (min-width:768px) {
     .landingPage .topSide .freelancerName {
         display: none;
     }
@@ -188,4 +188,4 @@ img {
     .landingPage .bottomLeftSide {
         bottom: 6rem;
     }
-}
+} */
