@@ -97,7 +97,7 @@ img {
     position: absolute;
     bottom: 0;
     z-index: -1;
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .landingPage .mainImage img {
