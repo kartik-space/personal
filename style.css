@@ -79,7 +79,7 @@ img {
     gap: 2rem;
     writing-mode: vertical-lr;
     position: absolute;
-    top: 50%;
+    top: 45%;
     right: 2rem;
     transform: translateY(-50%);
 }
