@@ -203,7 +203,7 @@ img {
 } */
 @media only screen and (max-width: 600px) {
     .landingPage .mainImage {
-     
+        top: 50%; 
         max-width: 100%;
     }
 }
